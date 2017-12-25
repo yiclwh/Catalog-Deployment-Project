@@ -16,7 +16,7 @@ This is a baseline installation of a Linux server and preparation for hosting a 
 
 * The complete URL to hosted web application.
 
-  * [Application URL](ttp://ec2-50-112-8-5.us-west-2.compute.amazonaws.com/)
+  * http://ec2-50-112-8-5.us-west-2.compute.amazonaws.com/
 
 
 * A summary of software installed and configuration changes made
